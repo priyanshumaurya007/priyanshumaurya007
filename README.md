@@ -5,7 +5,7 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="40" > **About Me:**
 
-- I,m a Passionate Programmer and a **Web Developer👨‍💻**.
+- I,m a Passionate Programmer and a **Backend Developer👨‍💻**.
 - I always love to explore and learn new **Technologies**💻.
 - Always Open to contribute in **Any** Projects👨‍💻.
 - Looking for a **Web Project** to contribute😀.
